@@ -1,3 +1,8 @@
+# Dados relativos aos casos de violência doméstica em Portugal
+
+Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
+O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo.
+
 # Contexto 
 
 A violência doméstica é um crime que, ao contrário do que é acreditado, não diz respeito a idades, estatuto social, sexo, religião, cultura, orientação sexual, estado civil ou formação. Este crime é praticado por alguém que inflige maus tratos físicos ou psicológicos, uma vez ou de forma consistente, a outra pessoa (conjugue/ex-conjugue; namorado/a ou ex-namorado/a) que co-habitem, ou não e, também, a sujeitos que, de algum modo, não tem capacidades para se defender (idosos, grávidas, crianças, pessoas com algum tipo de deficiência). 
@@ -7,12 +12,6 @@ Neste projeto, a análise dos dados referentes a um tema como a Violência Domé
 As estatísticas presentes neste projeto permitiram que retirássemos várias conclusões sobre este assunto. Em primeiro lugar, refuta-se o estereótipo da inexistência de vítimas masculinas, uma vez que o número de casos sobre este sexo mostra-se bastante elevado. Relativamente às idades, percebe-se que há um aumento significativo de acordo com a idade, ou seja, o número de pessoas mais velhas que são vítimas deste crime é mais elevado que o número de jovens. 
 
 Segundo o relatório anual da APAV, 79% dos crimes contra pessoas assinalados estavam associados à Violência Doméstica.
-
-# Dados relativos aos casos de violência doméstica em Portugal
-
-Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
-O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo.
-
 # Fontes de dados e API´s utilizados 
 
 Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endereços:
