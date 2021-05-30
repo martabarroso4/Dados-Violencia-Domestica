@@ -31,28 +31,28 @@ O repositório está organizado da seguinte forma:
 
 # Dicionário de dados 
 
-| Nome da coluna | Significado | 
-| -------------- | ----------- | 
-| ano            | ano referente aos dados
-| municipio      | município referente aos dados 
-| codigo_municipio | código do município
-| num_habitantes | número de habitantes referente ao município naquele ano 
-| num_crimes     | número de crimes ocorridos naquele município e ano 
-| num_vitimas    | número de vítimas referente àquele município e ano
-| num_vitima_feminina | número de vítimas do sexo feminino referente àquele município e ano 
-num_vitima_masculina | número de vítimas do sexo masculino referente àquele município e ano
-num_vitima_intersexo | número de vítimas intersexo referente àquele município e ano  
-num_vitima_idade_3 | 
-num_vitima_idade_5 |
-num_vitima_idade_10 | 
-num_vitima_idade_17 |
-num_vitima_idade_24 |
-num_vitima_idade_34 |
-num_vitima_idade_44 |
-num_vitima_idade_54 |
-num_vitima_idade_64 |
-num_vitima_idade_mais_65 | número de vítimas com idade superior a 65 anos referente àquele municípo e ano
-num_crimes_vitimacao_continuada |  
-num_crimes_vitimacao_nao_continuada |  
+| Nome da coluna | Significado | Possíveis valores | 
+| -------------- | ----------- | ----------------- |
+| ano            | ano referente aos dados | Inteiro >= 0
+| municipio      | município referente aos dados | String 
+| codigo_municipio | código do município | Inteiro >= 0
+| num_habitantes | número de habitantes referente ao município naquele ano | Inteiro >= 0
+| num_crimes     | número de crimes ocorridos naquele município e ano | Inteiro >= 0
+| num_vitimas    | número de vítimas referente àquele município e ano | Inteiro >= 0
+| num_vitima_feminina | número de vítimas do sexo feminino referente àquele município e ano | Inteiro >= 0 
+num_vitima_masculina | número de vítimas do sexo masculino referente àquele município e ano | Inteiro >= 0
+num_vitima_intersexo | número de vítimas intersexo referente àquele município e ano | Inteiro >= 0 
+num_vitima_idade_3 | | Inteiro >= 0
+num_vitima_idade_5 | | Inteiro >= 0
+num_vitima_idade_10 | | Inteiro >= 0
+num_vitima_idade_17 | | Inteiro >= 0
+num_vitima_idade_24 | | Inteiro >= 0
+num_vitima_idade_34 | | Inteiro >= 0
+num_vitima_idade_44 | | Inteiro >= 0
+num_vitima_idade_54 | | Inteiro >= 0
+num_vitima_idade_64 | | Inteiro >= 0
+num_vitima_idade_mais_65 | número de vítimas com idade superior a 65 anos referente àquele municípo e ano | Inteiro >= 0
+num_crimes_vitimacao_continuada | | Inteiro >= 0
+num_crimes_vitimacao_nao_continuada | | Inteiro >= 0
 
 
