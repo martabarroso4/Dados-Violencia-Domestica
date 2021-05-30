@@ -1,3 +1,13 @@
+# Contexto 
+
+A violência doméstica é um crime que, ao contrário do que é acreditado, não diz respeito a idades, estatuto social, sexo, religião, cultura, orientação sexual, estado civil ou formação. Este crime é praticado por alguém que inflige maus tratos físicos ou psicológicos, uma vez ou de forma consistente, a outra pessoa (conjugue/ex-conjugue; namorado/a ou ex-namorado/a) que co-habitem, ou não e, também, a sujeitos que, de algum modo, não tem capacidades para se defender (idosos, grávidas, crianças, pessoas com algum tipo de deficiência). 
+
+Neste projeto, a análise dos dados referentes a um tema como a Violência Doméstica surge num contexto de sensibilização, com o objetivo de trazer mais consciência e exposição quanto à gravidade desta situação e para mostrar os elevados números associados a este crime. 
+
+As estatísticas presentes neste projeto permitiram que retirássemos várias conclusões sobre este assunto. Em primeiro lugar, refuta-se o estereótipo da inexistência de vítimas masculinas, uma vez que o número de casos sobre este sexo mostra-se bastante elevado. Relativamente às idades, percebe-se que há um aumento significativo de acordo com a idade, ou seja, o número de pessoas mais velhas que são vítimas deste crime é mais elevado que o número de jovens. 
+
+Segundo o relatório anual da APAV, 79% dos crimes contra pessoas assinalados estavam associados à Violência Doméstica.
+
 # Dados relativos aos casos de violência doméstica em Portugal
 
 Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
@@ -18,15 +28,6 @@ Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endere�
 [Dados anuiais de monitorização forneciddos pelo Ministério da Administração Interna](https://www.sg.mai.gov.pt/paginas/violenciadomesticarelatorios.aspx)
 
 ###### Todos os dados acima listados são referentes aos casos de violênia doméstica a nível nacional. 
-
-# Contexto 
-A violência doméstica é um crime que, ao contrário do que é acreditado, não diz respeito a idades, estatuto social, sexo, religião, cultura, orientação sexual, estado civil ou formação. Este crime é praticado por alguém que inflige maus tratos físicos ou psicológicos, uma vez ou de forma consistente, a outra pessoa (conjugue/ ex-cõnjugue; namorado/a ou ex-namorado/a) que co-habitem ou não e, também, a sujeitos que, de algum modo, não tem capacidades para se defender (idosos; grávidas; crianças; pessoas com algum tipo de deficiência). 
-
-Neste projeto, a análise dos dados referentes a um tema como a Violência Doméstica surge num contexto de sensibilização, com o objetivo de trazer mais consciência e exposição quanto à gravidade desta situação e para mostrar os elevados números associados a este crime. 
-
-As estatísticas presentes neste projeto permitiram que retirássemos várias conclusões sobre este assunto. Em primeiro lugar, refuta-se o estereótipo da inexistência de vítimas masculinas, uma vez que o número de casos sobre este sexo mostra-se bastante elevado. Relativamente às idades, percebe-se que há um aumento significativo de acordo com a idade, ou seja, o número de pessoas mais velhas que são vítimas deste crime é mais elevado que o número de jovens. 
-
-Segundo o relatório anual da APAV, 79% dos crimes contra pessoas assinalados estavam associados à Violência Doméstica.
 
 # Estrutura 
 
