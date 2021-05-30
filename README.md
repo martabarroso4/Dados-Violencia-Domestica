@@ -23,9 +23,9 @@ Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endere�
 
 O repositório está organizado da seguinte forma: 
 
-**data.csv**: 
+**data.csv**: Ficheiro que contém os dados relativos aos casos de violência doméstica em Portugal.
 
-**violencia_domestica.ipynb**:
+**violencia_domestica.ipynb**: [Tratamento/limpeza de dados e comparação dos números relativos aos distritos de Coimbra, Porto e Lisboa, juntamente com a comparação dos números referentes aos diferentes sexos.](https://github.com/martabarroso4/Dados-Violencia-Domestica/blob/main/violencia_domestica.ipynb)  
 
 # Dicionário de dados 
 
