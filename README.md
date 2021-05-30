@@ -68,14 +68,14 @@ O repositório está organizado da seguinte forma:
 num_vitima_masculina | número de vítimas do sexo masculino referente àquele município e ano
 num_vitima_intersexo | número de vítimas intersexo referente àquele município e ano  
 num_vitima_idade_3 | número de vítimas com idade até aos 3 anos referente àquele município
-num_vitima_idade_5 | número de vítimas com idade compreendida entre os 3 e os 5 anos de idade referente àquele município
-num_vitima_idade_10 | número de vítimas com idade compreendida entre os 5 e os 10 anos de idade referente àquele município
-num_vitima_idade_17 | número de vítimas com idade compreendida entre os 10 e os 17 anos de idade referente àquele município
-num_vitima_idade_24 | número de vítimas com idade compreendida entre os 17 e os 24 anos de idade referente àquele município
-num_vitima_idade_34 | número de vítimas com idade compreendida entre os 24 e os 34 anos de idade referente àquele município
-num_vitima_idade_44 | número de vítimas com idade compreendida entre os 34 e os 44 anos de idade referente àquele município
-num_vitima_idade_54 | número de vítimas com idade compreendida entre os 44 e os 54 anos de idade referente àquele município
-num_vitima_idade_64 | número de vítimas com idade compreendida entre os 54 e os 64 anos de idade referente àquele município
+num_vitima_idade_5 | número de vítimas com idade compreendida entre os 3 e os 5 anos de idade referente àquele município e ano
+num_vitima_idade_10 | número de vítimas com idade compreendida entre os 5 e os 10 anos de idade referente àquele município e ano
+num_vitima_idade_17 | número de vítimas com idade compreendida entre os 10 e os 17 anos de idade referente àquele município e ano
+num_vitima_idade_24 | número de vítimas com idade compreendida entre os 17 e os 24 anos de idade referente àquele município e ano
+num_vitima_idade_34 | número de vítimas com idade compreendida entre os 24 e os 34 anos de idade referente àquele município e ano
+num_vitima_idade_44 | número de vítimas com idade compreendida entre os 34 e os 44 anos de idade referente àquele município e ano
+num_vitima_idade_54 | número de vítimas com idade compreendida entre os 44 e os 54 anos de idade referente àquele município e ano
+num_vitima_idade_64 | número de vítimas com idade compreendida entre os 54 e os 64 anos de idade referente àquele município e ano
 num_vitima_idade_mais_65 | número de vítimas com idade superior a 65 anos referente àquele municípo e ano
 num_crimes_vitimacao_continuada |  
 num_crimes_vitimacao_nao_continuada |  
