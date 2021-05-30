@@ -1,11 +1,13 @@
 # Dados relativos aos casos de violência doméstica em Portugal
 
-Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
+Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II do 1º ano de Licenciatura em Comunicação e Design Multimédia, com o objetivo de analisar e desenvolver o tratamento de dados relativos aos casos de Violência Doméstica em Portugal.
 O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo.
 
 # Fontes de dados e API´s utilizados 
 
-Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endereços:
+Ficheiro [data.csv](https://github.com/dssg-pt/mp-violencia-domestica/tree/main/data) utilizado para análise.
+
+##### Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endereços:
 
 [Estatísticas fornecidas pela APAV relativas ao período 2013-2018](https://apav.pt/apav_v3/images/pdf/Estatisticas_APAV_Violencia_Domestica_2013_2018.pdf)
 
@@ -17,15 +19,15 @@ Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endere�
 
 [Dados anuiais de monitorização forneciddos pelo Ministério da Administração Interna](https://www.sg.mai.gov.pt/paginas/violenciadomesticarelatorios.aspx)
 
-###### Todos os dados acima listados são referentes aos casos de violênia doméstica a nível nacional. 
+###### Todos os endereços acima listados são referentes aos dados de casos de violênia doméstica a nível nacional. 
 
 # Estrutura 
 
 O repositório está organizado da seguinte forma: 
 
-**data.csv**: Ficheiro que contém os dados relativos aos casos de violência doméstica em Portugal.
+**data.csv**: Ficheiro que contém os dados relativos aos casos de violência doméstica em Portugal (número de crimes e vítimas, sexo e faixa etária das mesmas e casos em que o crime foi ou não descontinuado) durante o período 2009-2019.
 
-**violencia_domestica.ipynb**: [Tratamento/limpeza de dados e comparação dos números relativos aos distritos de Coimbra, Porto e Lisboa, juntamente com a comparação dos números referentes aos diferentes sexos.](https://github.com/martabarroso4/Dados-Violencia-Domestica/blob/main/violencia_domestica.ipynb)  
+**violencia_domestica.ipynb**: [Tratamento/limpeza de dados e comparação dos números relativos aos distritos de Coimbra, Porto e Lisboa, juntamente com a comparação dos números referentes aos diferentes sexos no distrito de Coimbra.](https://github.com/martabarroso4/Dados-Violencia-Domestica/blob/main/violencia_domestica.ipynb)  
 
 # Dicionário de dados 
 
