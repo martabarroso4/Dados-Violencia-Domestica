@@ -3,6 +3,22 @@
 Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
 O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo.
 
+# Fontes de dados e API´s utilizados 
+
+Os dados que se encontram no ficheiro **data.csv** provém dos seguintes endereços:
+
+[Estatísticas fornecidas pela APAV relativas ao período 2013-2018](https://apav.pt/apav_v3/images/pdf/Estatisticas_APAV_Violencia_Domestica_2013_2018.pdf)
+
+[Dados trimestrais fornecidos pelo Governo](https://www.cig.gov.pt/area-portal-da-violencia/violencia-no-namoro/documentacao/)
+
+[Dados anuais por concelho fornecidos pelo INE](https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main)
+
+[Dados anuais por concelho fornecidos pelo PORDATA](https://www.pordata.pt/DB/Ambiente+de+Consulta/Nova+Consulta)
+
+[Dados anuiais de monitorização forneciddos pelo Ministério da Administração Interna](https://www.sg.mai.gov.pt/paginas/violenciadomesticarelatorios.aspx)
+
+###### Todos os dados acima listados são referentes aos casos de violênia doméstica a nível nacional. 
+
 # Estrutura 
 
 O repositório está organizado da seguinte forma: 
