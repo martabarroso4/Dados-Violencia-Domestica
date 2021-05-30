@@ -1,7 +1,7 @@
 # Dados relativos aos casos de violência doméstica em Portugal
 
 Este projeto foi criado no âmbito da unidade curricular de Programação e Algoritmos II, com o objetivo de analisar e desenvolver o tratamento de dados. 
-O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo.
+O ficheiro csv utilizado foi retirado de https://github.com/dssg-pt/mp-violencia-domestica , focando a análise no distrito de Coimbra. Na mesma, comparamos os casos de violência doméstica em Coimbra com os números referentes às duas principais cidades portuguesas, Lisboa e Porto; permite-nos ter uma noção relativa à sua evolução ao longo do tempo, comparando os números nestes três distritos. Posto isto, foram também comparados os casos de Coimbra entre vítimas do sexo feminino, masculino e intersexo. As colunas presentes no ficheiro continham objetos que foram transformados em 
 
 # 📖 Contexto 
 
@@ -56,28 +56,28 @@ O repositório está organizado da seguinte forma:
 
 # 📔 Dicionário de dados 
 
-| Nome da coluna | Significado | 
-| -------------- | ----------- | 
-| ano            | ano referente aos dados
-| municipio      | município referente aos dados 
-| codigo_municipio | código do município
-| num_habitantes | número de habitantes referente ao município naquele ano 
-| num_crimes     | número de crimes ocorridos naquele município e ano 
-| num_vitimas    | número de vítimas referente àquele município e ano
-| num_vitima_feminina | número de vítimas do sexo feminino referente àquele município e ano 
-num_vitima_masculina | número de vítimas do sexo masculino referente àquele município e ano
-num_vitima_intersexo | número de vítimas intersexo referente àquele município e ano  
-num_vitima_idade_3 | número de vítimas com idade até aos 3 anos referente àquele município
-num_vitima_idade_5 | número de vítimas com idade compreendida entre os 3 e os 5 anos de idade referente àquele município e ano
-num_vitima_idade_10 | número de vítimas com idade compreendida entre os 5 e os 10 anos de idade referente àquele município e ano
-num_vitima_idade_17 | número de vítimas com idade compreendida entre os 10 e os 17 anos de idade referente àquele município e ano
-num_vitima_idade_24 | número de vítimas com idade compreendida entre os 17 e os 24 anos de idade referente àquele município e ano
-num_vitima_idade_34 | número de vítimas com idade compreendida entre os 24 e os 34 anos de idade referente àquele município e ano
-num_vitima_idade_44 | número de vítimas com idade compreendida entre os 34 e os 44 anos de idade referente àquele município e ano
-num_vitima_idade_54 | número de vítimas com idade compreendida entre os 44 e os 54 anos de idade referente àquele município e ano
-num_vitima_idade_64 | número de vítimas com idade compreendida entre os 54 e os 64 anos de idade referente àquele município e ano
-num_vitima_idade_mais_65 | número de vítimas com idade superior a 65 anos referente àquele municípo e ano
-num_crimes_vitimacao_continuada |  
-num_crimes_vitimacao_nao_continuada |  
+| Nome da coluna | Significado | Tipo de dado |  
+| -------------- | ----------- | ----------------- |
+| ano            | Ano referente aos dados. | object
+| municipio      | Município referente aos dados. | string 
+| codigo_municipio | Código do município. | object
+| num_habitantes | Número de habitantes referente ao município naquele ano. | object
+| num_crimes     | Número de crimes ocorridos naquele município e ano. | object
+| num_vitimas    | Número de vítimas referente àquele município e ano. | object
+| num_vitima_feminina | Número de vítimas do sexo feminino referente àquele município e ano. | object
+num_vitima_masculina | Número de vítimas do sexo masculino referente àquele município e ano. | object
+num_vitima_intersexo | Número de vítimas intersexo referente àquele município e ano. | object
+num_vitima_idade_3 | Número de vítimas com idade até aos 3 anos. | object
+num_vitima_idade_5 | Número de vítimas com idade entre os 3 e 5 anos. | object
+num_vitima_idade_10 | Número de vítimas com idade entre os 5 e 10 anos. | object
+num_vitima_idade_17 | Número de vítimas com idade entre os 10 e 17 anos. | object
+num_vitima_idade_24 | Número de vítimas com idade entre os 17 e 24 anos. | object
+num_vitima_idade_34 | Número de vítimas com idade entre os 24 e 34 anos. | object
+num_vitima_idade_44 | Número de vítimas com idade entre os 34 e 44 anos. | object
+num_vitima_idade_54 | Número de vítimas com idade entre os 44 e 54 anos. | object
+num_vitima_idade_64 | Número de vítimas com idade entre os 54 e 64 anos. | object
+num_vitima_idade_mais_65 | Número de vítimas com idade superior a 65 anos. | object
+num_crimes_vitimacao_continuada | Número de casos em que a a vítimação persistiu. | object  
+num_crimes_vitimacao_nao_continuada | Número de casos em que a vitimação não persistiu. | object
 
 
